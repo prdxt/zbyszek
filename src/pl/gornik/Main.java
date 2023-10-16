@@ -53,6 +53,8 @@ public class Main {
         osoby.add(osoba5);
 
 
+        //f
+
 
 
         Set<osoba> osobyTree = new TreeSet<>(comp);
